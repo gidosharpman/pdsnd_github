@@ -2,6 +2,7 @@ import time
 import pandas as pd
 import numpy as np
 
+# Code Start
 #Creating a dictionary containing the data sources for the three cities
 CITY_DATA = { 'chicago': 'data/chicago.csv', 'Chicago': 'data/chicago.csv',
              'New York City': 'data/new_york_city.csv', 'New york city': 'data/new_york_city.csv',
